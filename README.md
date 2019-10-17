@@ -5,7 +5,7 @@ It provides a permanent shortcut which survives any update.
 
 It's also a short sample Application to for native Kotlin on Windows.
 
-## 📦 [Download](https://github.com/TobseF/IntelliJ-Launcher-n/releases/latest/download/intellij-launcher.exe)
+### 📦 [Download](https://github.com/TobseF/IntelliJ-Launcher-n/releases/latest/download/intellij-launcher.exe)
 
 ## ✅ Requirements
 * IntelliJ Ultimate
