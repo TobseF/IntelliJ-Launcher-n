@@ -1,5 +1,5 @@
 # 🚀 IntelliJ-Launcher
-[![Kotlin Native](https://img.shields.io/badge/Kotlin_Native-1.3.31-blue.svg?style=flat&logo=kotlin&logoColor=white)](http://kotlinlang.org)
+[![Kotlin Native](https://img.shields.io/badge/Kotlin_Native-1.3.72-blue.svg?style=flat&logo=kotlin&logoColor=white)](http://kotlinlang.org)
 
 Native Windows Kotlin program that launches the latest installed IntelliJ with a specified project.  
 This can be useful to launch IntelliJ e.g. on system startup.  
